@@ -1,0 +1,36 @@
+#encabezado{
+    color:white;
+    text-align: center;
+}
+
+body {
+    background-color:black;
+    
+}
+nav ul li{
+  display:inline-block;
+  margin-right: 20px;
+  color:white;
+  cursor: pointer;
+  border: 8px solid black;
+  padding: 14px 16px; 
+  border-color: orange;
+}
+#Introducion{
+    color: white;
+}
+    
+
+aside{
+    color: white;
+}
+
+footer{
+    font-size: small;
+    border: 8px solid black;
+    padding: 8px 8px;
+    border-color: orange;
+    right: 0;
+    top: 0;
+    color: white;
+}
